@@ -1,0 +1,38 @@
+    h1, h2 {
+        text-align: center;
+        color: #596e79;
+    }
+
+    #content {
+        margin: 20px;
+        text-align: center;
+    }
+
+    body {
+        background-color: #f0ece2;
+        text-align: center;
+    }
+
+    a {
+        text-decoration: none;
+        color: #c7b198;
+        margin: 30px;
+    }
+
+    .croissant-photo {
+        align-content: center;
+    }
+
+    .email {
+        text-align: center;
+        font-size: 24px;
+        font-style: italic;
+        color: #596e79;
+    }
+
+    .nav-bar {
+        margin: 50px 50px;
+        font-size: 20px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-weight: 300;
+    }
